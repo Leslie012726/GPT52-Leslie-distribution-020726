@@ -10,3 +10,7 @@ PyYAML
 altair
 httpx
 python-docx
+python-dateutil
+plotly
+networkx
+pydantic
